@@ -5,7 +5,7 @@ import './App.css';
 const App = () => {
     return (
         <div className='app'>
-            <h1>Welcome to React Application</h1>
+            <h1>Welcome to React Application With Jest Testing</h1>
             <img src={reactlogo} alt=''/>
         </div>
     );
